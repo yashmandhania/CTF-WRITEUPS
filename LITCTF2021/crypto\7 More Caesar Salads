@@ -1,0 +1,4 @@
+identify the type of cipher with BOXentriq
+it is a vigenere cipher 
+decode it with online tool //https://www.dcode.fr/vigenere-cipher//
+flag{Welcome_To_Cryptography}

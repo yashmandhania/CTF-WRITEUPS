@@ -1,0 +1,6 @@
+this is a BASE encoded challenge
+ base 85 decode
+ base64 decode 
+ decode fromhex
+ get ascii values from integers
+ use the site called //cyberchef// to decode the different bases
